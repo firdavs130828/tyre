@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+ 
+    color: #737373;
+
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.div{
+    margin-top: 80px;
+}
+.tbt{
+    background: linear-gradient(95.2deg, #B90160 2.23%, #2E3192 99.51%);
+width: 179px;
+height: 53px;
+top: 550px;
+left: 122px;
+color: white;
+font-weight: 900;
+font-size: 20px;
+text-align: center;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+opacity: 1;
+border-radius: 7px;
+
+}
+.laporte h2{
+    margin-bottom: 40px;
+font-weight: 900;
+font-size: 50px;
+
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.hero{
+    display: flex;
+    align-items: center;
+gap: 40px;
+}
+.laporte{
+    padding: 150px;
+}
+span{
+    
+font-weight: 400;
+font-size: 50px;
+
+color: #B90160;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+ 
+}
+h1{
+   
+font-weight: 400;
+font-size: 50px;
+
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.card h3{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 10px;
+}
+p{
+    color: #737373;
+    font-size: 15px;
+    padding: 10px;
+}
+.card{
+    width: 444px;
+height: 414px;
+top: 1022px;
+left: 143px;
+background: #FFFFFF;
+padding: 40px;
+opacity: 1;
+border-radius: 9px;
+text-align: center;
+
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+h4{
+    
+font-weight: 300;
+font-size: 18px;
+text-align: center;
+margin-top: 70px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #000000;
+
+}
+.yamal{
+    margin-top: 200px;
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+width: 1440;
+height: 357;
+top: 1661px;
+
+
+
+}
+.card2{
+    width: 436px;
+height: 187px;
+top: 1759px;
+left: 499px;
+box-shadow: 0px 0px 30px 0px #00000040;
+background: #FFFFFF;
+margin-bottom: 100px;
+border-radius: 9px;
+
+}
+.ota2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+padding: 150px 0;
+}
+footer .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.son{
+    
+
+font-weight: 700;
+font-size: 14px;
+
+line-height: 100%;
+letter-spacing: 0%;
+
+color: #000000;
+
+
+}
+.poy{
+
+font-weight: 300;
+font-size: 14px;
+
+line-height: 9.5px;
+letter-spacing: 0%;
+
+}
